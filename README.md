@@ -23,7 +23,7 @@ ROS 2 provides built-in communication mechanisms that help coordinate how nodes 
 - Nodes can discover and connect with each other automatically using DDS's built-in discovery mechanisms.
 - Unlike ROS 1, there’s no need for a central master — making the system more scalable and resilient.
 
-## You’ve Already Learned Key ROS 2 Concepts! Hooray! 🙌
+**You’ve Already Learned Key ROS 2 Concepts! Hooray!**Im done with this step 🙌
 By now, you're familiar with the essential building blocks of ROS 2:
 
 - ✅ **Nodes**  
